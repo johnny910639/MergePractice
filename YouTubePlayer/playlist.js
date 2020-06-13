@@ -1,8 +1,8 @@
 //YouTube影片ID
 let playList = [
-    "4iVW7OhZ0p8",//讓我留在你身邊
-    "MJnzEa0FSKk",//全放空
-    "7NN4RlKspW0"//飄向北方
+  
+    "pg8ApZ61L8w",//2017年世界咖啡沖煮大賽冠軍 王策
+    
 ];
 //播放起始秒數
 let playTime = [
