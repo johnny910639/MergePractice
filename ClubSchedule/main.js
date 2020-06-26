@@ -25,7 +25,7 @@ function setTable(){
     for(let x=0; x<topicCount; x++){
         let thisDate = new Date(startDate.getTime()+7*x*oneDayMilliseconds);
         let trSpecial = "<tr>";
-        if(topicsArray[x]=="不上課"){
+        if(topicsArray[x]=="不喝"){
             trSpecial = "<tr style='text-decoration:line-through'>";
         }
         $("#courseTable").append(
