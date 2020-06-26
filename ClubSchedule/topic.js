@@ -1,10 +1,10 @@
 let topicsArray =　[
-    "課程介紹",
-    "隨機性",
+    "美式咖啡",
+    "espresso",
     "不上課",
-    "日期時間",
+    "拿鐵",
     "不上課",
-    "條件判斷"
+    "單品"
 ];
 
 let startDate = new Date();
